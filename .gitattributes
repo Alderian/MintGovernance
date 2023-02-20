@@ -1,0 +1,3 @@
+scripts/* linguist-vendored
+test/* linguist-vendored
+utils/* linguist-vendored
